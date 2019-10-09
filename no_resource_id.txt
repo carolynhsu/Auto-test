@@ -1,0 +1,4 @@
+1.Beautify Auto all name
+2.Edit Effect all name
+3.Lobby main menu
+4.Edit Adjust all feature

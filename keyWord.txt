@@ -1,0 +1,46 @@
+Open YCP
+    Open Application    http://localhost:4723/wd/hub    platformName=Android    platformVersion=9    deviceName=Android    automationName=Uiautomator2    appPackage=com.cyberlink.youperfect
+    ...    appActivity=.activity.SplashActivity    autoGrantPermissions=true    #noReset=True    #app=${CURDIR}${/}App${/}YouPerfect-5.42.0.4603.34031052.apk
+
+dialog_ok
+    Click Element    com.cyberlink.youperfect:id/alertDialog_buttonPositive
+
+permission_allow
+    Click Element    com.android.packageinstaller:id/permission_allow_button
+
+tutorials_skip
+    Click Element    com.cyberlink.youperfect:id/tutorialSkipBtn
+
+cam
+    Click Element    com.cyberlink.youperfect:id/launcher_camera
+
+switch_cam
+    Click Element    com.cyberlink.youperfect:id/cameraFacingButton
+
+capture
+    Click Element    com.cyberlink.youperfect:id/action_photo_shot_btn
+
+touch_screen
+    Click Element    com.cyberlink.youperfect:id/DialogDismissBackground    #skip "swipe left/right to change applied effect."
+
+cam_save
+    Click Element    com.cyberlink.youperfect:id/acton_photo_result_apply_btn
+
+cam_back
+    Click Element    com.cyberlink.youperfect:id/cameraBackButton
+
+
+promotion_close
+    Click Element    com.cyberlink.youperfect:id/promote_close_btn
+
+settings
+    Click Element    com.cyberlink.youperfect:id/settingButton
+
+photo_edit
+   Click Element    com.cyberlink.youperfect:id/launcher_edit
+
+library
+    Click Element    com.cyberlink.youperfect:id/albumItemImage
+
+select_photo
+    Click Element    com.cyberlink.youperfect:id/photoItemImage

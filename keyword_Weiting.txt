@@ -1,0 +1,56 @@
+BEAUTIFY
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarBeautifyBtn
+
+Auto
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarBestFaceBtn
+
+Effects 
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarBeautifyEffectBtn
+
+Smooth
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarSkinSmoothenBtn
+
+Face_Shaper
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarFaceReshapeBtn
+
+Tone
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarSkinWhitenBtn
+
+Nose_Enhance
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarContourNoseBtn
+
+Eye_Bag
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarEyeBagBtn
+
+Enlarger
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarEnlargeEyeBtn
+
+Acne
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarPimpleBtn
+
+Blush
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarComplexionBtn
+
+Taller
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarTallerBtn
+
+Body_Shaper
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarSlimBtn
+
+Smile
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarSmileBtn
+
+Oil_Free
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarOilRemovalBtn
+
+Contour
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarContourFaceBtn
+
+Brighten
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarSparkleEyeBtn
+
+Double_Eyelid
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarEyelidBtn
+
+Red_Eye
+    Click Element    com.cyberlink.youperfect:id/bottomToolBarRedEyeBtn
